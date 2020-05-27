@@ -25,7 +25,7 @@ You can change the timespan if needed to suit your business requirements.
     
 See this blog post for more details:
 
-http://blogs.technet.com/b/rmilne/archive/2015/02/25/exchange-activesync-script-to-grandfather-existing-devices.aspx
+https://blog.rmilne.ca/2015/02/25/exchange-activesync-script-to-grandfather-existing-devices
 
  
 
